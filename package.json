@@ -1,6 +1,6 @@
 {
   "name": "brisky-is-obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks whether an object is not null or a function or a vigour-base object",
   "main": "lib/index.js",
   "scripts": {
