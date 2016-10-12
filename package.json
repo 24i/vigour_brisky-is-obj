@@ -1,6 +1,6 @@
 {
   "name": "brisky-is-obj",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Checks whether an object is not null or a function or a brisky-base object",
   "main": "lib/index.js",
   "scripts": {
